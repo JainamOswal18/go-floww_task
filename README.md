@@ -124,8 +124,8 @@ GoFloww Dashboard/
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd gofloww-dashboard
+   git clone https://github.com/JainamOswal18/go-floww_task.git
+   cd go-floww_task
    ```
 2. **Install dependencies**
    ```bash
